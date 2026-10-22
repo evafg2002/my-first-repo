@@ -33,4 +33,5 @@ The main Git commands I learned are:
 - `git commit`: saves changes in the repository's history.
 - `git merge`: combines changes from different branches.
 - `git revert`: creates a new commit that undoes a previous commit.
+- `git push`: uploads local commits to GitHub.
 - `git clone`: downloads a copy of a remote repository.
